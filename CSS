@@ -1,0 +1,44 @@
+/* 3. body: font family and font size */
+body {
+  font-family: Arial;
+  font-size: 16px;
+}
+
+/* 4. header: background color */
+header {
+  background-color: black;
+}
+
+/* 5. nav: background color */
+nav {
+  background-color:white;
+}
+
+/* 6. main: background color and font size */
+main {
+  background-color:white;
+  font-size: 18px;
+}
+
+/* 7. footer: background color */
+footer {
+  background-color:black;
+}
+
+/* 8. li: display and width */
+li {
+  display: inline-block;
+  width: 120px;
+}
+
+/* 9. h1: text alignment, font family, and color */
+h1 {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", serif;
+  color:white;
+}
+
+/* 10. p: line height */
+p {
+  line-height: 1.6;
+}
